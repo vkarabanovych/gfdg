@@ -27,7 +27,7 @@ html {
 }
 body {
     line-height: 1;
-    width: 1920px;
+    width: 100%;
 }
 ol, ul {
     list-style: none;
@@ -47,16 +47,82 @@ table {
 .img {
     display: flex;
     flex-wrap: wrap;
+    width: 100%;
 }
 .img-vs1 {
-    width: 383.8px;
-height: 576.23px;
+    width: 20%;
+    height: 35%;
 }
 .img-vs2 {
-    width: 383.8px;
-height: 576.23px;
+    width: 20%;
+height: 35%;
 }
 .img-width {
-    width: 639.6px;
-    height: 428.33px;
+    width: 33.3333333333333333333333333333333333333333%;
+    height: 30%;
 }
+.i8:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+.i9:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+  .i10:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+.i12:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }  
+  .i13:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  } 
+.iw11:hover {
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      } 
+      .iw14:hover {
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      } 
+      .iw15:hover {
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      } 
+    .i16:hover {
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      }
+    .i17:hover {
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      }
+      .i18:hover {
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      }
+    .i19:hover {
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      }  
+      .i20:hover {
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        transform: scale(1.2);
+      }
